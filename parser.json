@@ -1,7 +1,7 @@
 {
+  "lang": "qmljs",
   "url": "https://github.com/yuja/tree-sitter-qmljs",
   "semver": false,
   "parser_version": "0bec4359a7eb2f6c9220cd57372d87d236f66d59",
-  "location": null,
-  "lang": "qmljs"
+  "location": null
 }
